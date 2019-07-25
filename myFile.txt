@@ -1,3 +1,0 @@
-my first file
-
-I'm adding a new line in newB.
